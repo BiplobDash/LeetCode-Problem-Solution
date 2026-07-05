@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     bool isOk(vector<int>& piles, int mid, int h){
         int sum = 0;
         for(auto p : piles){
